@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAAE,KAAK;CACxB",
+    "sources": [
+        "main.scss",
+        "_veriables.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
